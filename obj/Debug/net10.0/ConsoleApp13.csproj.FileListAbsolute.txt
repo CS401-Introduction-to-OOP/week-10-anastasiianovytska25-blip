@@ -1,0 +1,15 @@
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/ConsoleApp13.AssemblyInfoInputs.cache
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/ConsoleApp13.AssemblyInfo.cs
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/ConsoleApp13.csproj.CoreCompileInputs.cache
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/ConsoleApp13.sourcelink.json
+/Users/nastya/RiderProjects/ConsoleApp13/bin/Debug/net10.0/ConsoleApp13
+/Users/nastya/RiderProjects/ConsoleApp13/bin/Debug/net10.0/ConsoleApp13.deps.json
+/Users/nastya/RiderProjects/ConsoleApp13/bin/Debug/net10.0/ConsoleApp13.runtimeconfig.json
+/Users/nastya/RiderProjects/ConsoleApp13/bin/Debug/net10.0/ConsoleApp13.dll
+/Users/nastya/RiderProjects/ConsoleApp13/bin/Debug/net10.0/ConsoleApp13.pdb
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/ConsoleApp13.dll
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/refint/ConsoleApp13.dll
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/ConsoleApp13.pdb
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/ConsoleApp13.genruntimeconfig.cache
+/Users/nastya/RiderProjects/ConsoleApp13/obj/Debug/net10.0/ref/ConsoleApp13.dll

@@ -1,13 +1,15 @@
 namespace ConsoleApp13;
-
+public enum EventType { Battle,
+    Loot, 
+    Quest, 
+    Heal }
 public class Event
 {
     public int Turn { get;}
     public string Description { get;}
-    public string Type { get;}
+    public EventType Type { get;}
     public string Effect { get;}
-
-    public Event(int turn, string description, string type, string effect)
+    public Event(int turn, string description, EventType type, string effect)
     {
         Turn = turn;
         Description = description;

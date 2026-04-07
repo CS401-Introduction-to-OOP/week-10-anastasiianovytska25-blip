@@ -1,5 +1,8 @@
 namespace ConsoleApp13;
-
+public enum CharacterStatus { 
+    Active,
+    Injured,
+    Dead }
 public class Hero
 {
     public string Name { get; set; }
@@ -7,15 +10,14 @@ public class Hero
     public int Level { get;}
     public int HP { get;}
     public int Gold { get;}
-    public bool IsActive { get;}
-
-    public Hero(string name, string clas, int level, int hp, int gold, bool isActive = true)
+    public CharacterStatus Status { get;}
+    public Hero(string name, string clas, int level, int hp, int gold, CharacterStatus status)
     {
         Name = name;
         Class = clas;
         Level = level;
         HP = hp;
         Gold = gold;
-        IsActive = isActive;
+        Status = status;
     }
 }
