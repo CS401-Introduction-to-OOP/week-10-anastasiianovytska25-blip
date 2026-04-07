@@ -16,4 +16,5 @@ public class Event
         Type = type;
         Effect = effect;
     }
+    public override string ToString() => $"Turn {Turn}: {Description} {Type} => {Effect}";
 }

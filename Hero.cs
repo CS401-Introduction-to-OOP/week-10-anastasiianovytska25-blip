@@ -20,4 +20,5 @@ public class Hero
         Gold = gold;
         Status = status;
     }
+    public override string ToString() => $"{Name} Class:{Class}, Lvl:{Level}, HP:{HP}, Gold:{Gold}, Status:{Status}";
 }
